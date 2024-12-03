@@ -1,7 +1,7 @@
 var cars = ['toyota', 'honda', 'mazda', 'mitsubishi', 'tesla', 'lexus']; //array named cars
 
 console.log('First item:', cars[0]);
-console.log('Last item:', cars[cars.length - 1]); //lof first and last items into console
+console.log('Last item:', cars[cars.length - 1]); //log first and last items into console
 
 cars.push('mercedes-benz'); //add an item
 console.log('Updated array:', cars);
